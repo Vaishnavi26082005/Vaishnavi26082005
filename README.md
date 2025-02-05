@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm Vaishnavi, a dedicated and enthusiastic develo
 - 🔭 I’m currently working on cutting-edge projects in the MERN stack.
 - 🌱 I’m enhancing my skills in advanced algorithms, machine learning, and cloud computing.
 - 👯 I’m looking to collaborate on impactful open-source projects.
-- 🤔 I’m seeking mentorship and guidance in cloud architecture and large-scale data processing.
-- 💬 Feel free to ask me about Python, JavaScript, data analysis, or any interesting tech topics.
+- 💬 Feel free to ask me about Python, JavaScript,Java ,C,Reactjs or any interesting tech topics.
 - 😄 Pronouns: She/Her
 
 ### GitHub Statistics
