@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
+<img width="2354" height="1430" alt="image" src="https://github.com/user-attachments/assets/9cafdab0-95b5-410d-9845-27a11f6d1337" /><img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
 
 ## Hi there 👋
 
@@ -10,6 +10,60 @@ Welcome to my GitHub profile! I'm Vaishnavi, a dedicated and enthusiastic develo
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 💬 Feel free to ask me about Python, JavaScript,Java ,C,Reactjs or any interesting tech topics.
 - 😄 Pronouns: She/Her
+### 🌟 **Featured Projects**
+# 📚 SkillNest – Learning Management System (LMS)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-id-here" alt="LearnSphere Preview" width="600" style="border-radius: 10px; border: 2px solid #22c55e; max-width: 100%;">
+</div>
+
+## 🎯 Vision
+A full-stack **Learning Management System (LMS)** that allows users to **browse, purchase, and access online courses** while enabling admins to **upload, edit, and manage course content** with secure authentication, image storage, and payment integration.
+
+---
+
+## ✨ Key Features
+
+- 🔐 **JWT-based Authentication & Authorization** for users and admins  
+- 👩‍🏫 **Role-based Access Control** – Only the admin who uploads a course can edit or delete it  
+- 💳 **Stripe Payment Integration** – Secure purchase of courses with real-time payment status  
+- ☁️ **Cloudinary Integration** – Upload and store course thumbnails efficiently  
+- 🎥 **YouTube Playlist Integration** – Redirects to course video playlists for learning  
+- 🧾 **Purchased Courses Dashboard** – Users can track all purchased courses  
+- ✅ **Zod Validation** for clean and secure data validation on both frontend & backend  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Tailwind CSS, Axios  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose  
+**Authentication:** JWT (JSON Web Token)  
+**Payments:** Stripe API  
+**Media Storage:** Cloudinary  
+**Validation:** Zod  
+**Deployment:** Vercel (Frontend) | Render (Backend)
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally 👇  
+
+### 🖥️ Clone the repository
+```bash
+git clone https://github.com/Vaishnavi26082005/COURSE
+cd course
+For Frontend: cd frontend
+              npm install
+              npm run dev
+For Backend: cd backend
+              npm install
 
 ### GitHub Statistics
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi26082005&show_icons=true&theme=radical)
