@@ -1,4 +1,4 @@
-<img width="2354" height="1430" alt="image" src="https://github.com/user-attachments/assets/9cafdab0-95b5-410d-9845-27a11f6d1337" /><img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
+<img width="2300" height="1335" alt="image" src="https://github.com/user-attachments/assets/6a9762a5-fe0b-4c31-b6ad-15d111aeb9ed" /><img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
 
 ## Hi there 👋
 
@@ -13,12 +13,14 @@ Welcome to my GitHub profile! I'm Vaishnavi, a dedicated and enthusiastic develo
 ### 🌟 **Featured Projects**
 # 📚 SkillNest – Learning Management System (LMS)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status"/>
-</div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-id-here" alt="LearnSphere Preview" width="600" style="border-radius: 10px; border: 2px solid #22c55e; max-width: 100%;">
+  <a href="https://course-murex-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4f46e5?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vaishnavi26082005/COURSE">
+    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-374151?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ## 🎯 Vision
@@ -64,7 +66,7 @@ For Frontend: cd frontend
               npm run dev
 For Backend: cd backend
               npm install
-
+```
 ### GitHub Statistics
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi26082005&show_icons=true&theme=radical)
 
