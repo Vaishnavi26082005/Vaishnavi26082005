@@ -1,4 +1,4 @@
-<img width="2300" height="1335" alt="image" src="https://github.com/user-attachments/assets/6a9762a5-fe0b-4c31-b6ad-15d111aeb9ed" /><img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
+<img align="center" width="100%" src="https://ik.imagekit.io/1x1lu8hz8/1736971211330el3rozp7-transformed.webp?updatedAt=1736975457958" />
 
 ## Hi there 👋
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Vaishnavi, a dedicated and enthusiastic develo
 ### 🌟 **Featured Projects**
 # 📚 SkillNest – Learning Management System (LMS)
 
-
+<div align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/6a9762a5-fe0b-4c31-b6ad-15d111aeb9ed"  style="border-radius: 10px; border: 2px solid #4f46e5; max-width: 100%" /></div>
 <div align="center">
   <a href="https://course-murex-beta.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4f46e5?style=for-the-badge&logoColor=white"/>
